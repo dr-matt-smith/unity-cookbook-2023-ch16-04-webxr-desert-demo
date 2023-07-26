@@ -1,4 +1,4 @@
-# unity-cookbook-2023-ch16-04-webxr-desert-demo
+# unity-cookbook-2023-ch16-05-webxr-desert-demo
 
 
 link for published WebXR Desert project:
